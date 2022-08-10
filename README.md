@@ -2,4 +2,4 @@
 
 ### These are my achievements in the journey of learning Data Science
 
-"C:\Users\shaik\Downloads\Churb.jpg"
+https://corporatefinanceinstitute.com/resources/knowledge/credit/types-of-credit-certifications/
