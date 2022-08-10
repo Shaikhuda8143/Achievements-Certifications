@@ -2,4 +2,4 @@
 
 ### These are my achievements in the journey of learning Data Science
 
-"C:\Users\shaik\OneDrive\Pictures\Screenshot (26).png"
+"C:\Users\shaik\Downloads\Churb.jpg"
